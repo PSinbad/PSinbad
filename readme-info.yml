@@ -8,11 +8,12 @@ on:
 jobs:
   update-readme:
     name: GitHub README Generator
+    runs-on: ubuntu-latest
     steps:
-      - uses: PSinbad/github-readme-info@master
+      - uses: PSinbad/readme-info@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Kolkata"
+          TIMEZONE: "Central Time"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_DAILY_COMMIT: "True"
