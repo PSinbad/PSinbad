@@ -1,22 +1,5 @@
 ## Hi there 👋
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--
 **PSinbad/PSinbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4>📊 Github Stats</h4>
+<div>
+  <div style="inline-block">
+    <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/overview.svg">
+  </div>
+  <div style="inline-block">
+    <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/languages.svg">
+  </div>
+</div>
