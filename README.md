@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4>📊 Github Stats</h4>
-<div style="display: flex;">
-  <div style="margin-right: 10px;">
+<a>
+  <p>
     <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/overview.svg" alt="Overview">
-  </div>
-  <div>
     <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/languages.svg" alt="Languages">
-  </div>
-</div>
+  </p>
+</a>
