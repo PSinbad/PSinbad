@@ -32,7 +32,7 @@ My name is Sam, I am a BI Developer learning full stack web development.
 ## 📊 Github Stats
 <a>
   <p>
-    <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/overview.svg" alt="Overview">
-    <img src="https://github.com/PSinbad/github-stats/blob/141f13097c5f6b196493251a5d2c8addbdc9f89e/generated/languages.svg" alt="Languages">
+    <img src="https://raw.githubusercontent.com/PSinbad/github-stats/56dece9a0c01ab2c34642f1be3e076389f9274eb/generated/overview.svg" alt="Overview">
+    <img src="https://raw.githubusercontent.com/PSinbad/github-stats/56dece9a0c01ab2c34642f1be3e076389f9274eb/generated/languages.svg" alt="Languages">
   </p>
 </a>
