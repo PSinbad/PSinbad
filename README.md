@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi There 👋 
+# Hi There 👋 
 
 
-My name is Sam, I am a BI Developer learning full stack web development.
+My name is Sam, I am a BI Engineer learning full stack web development.
 
 *   🧠  I'm currently learning JavaScript and Python
 *   🤝  I'm open to collaborating on Web & Python development projects
 
 
 &nbsp;
-## Technical Skills
+## <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28"></a> Technical Skills
 
 ### Frontend Tech
 <p align="left">
