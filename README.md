@@ -35,7 +35,7 @@ My name is Sam, I am a BI Engineer learning full stack web development.
 
 ### Backend / Data 
 <p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="36" height="36" alt="nodejs""></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="36" height="36" alt="FastAPI""></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://docs.getdbt.com/img/icons/white/dbt-bit.svg" width="36" height="36" alt="DBT" /></a>
